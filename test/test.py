@@ -1,12 +1,10 @@
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
-from mlAlgo.linear_regression import LinearRegression  # your class file
+from mlAlgo.linear_regression import LinearRegression  
 
-# ------------------- Load data -------------------
 data = pd.read_csv(r"data\house_price_regression_dataset.csv")
 
-# Split train and test
 train = data.iloc[:-100]
 test = data.iloc[-100:]
 
@@ -37,4 +35,4 @@ r2 = 1 - ss_res / ss_tot
 print(f"Model accuracy ( score): {r2:.4f}")
 
 comparison = np.hstack([y_pred, y_test])
-print(comparison[:10])  # first 10 rows
+print(comparison[:10]) 
