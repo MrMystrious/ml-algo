@@ -38,7 +38,7 @@ git clone https://github.com/MrMystrious/ml-algo.git
 cd ml-algo
 ```
 
-Install dependencies:
+## Install dependencies:
 pip install -r requirements.txt
 
 Usage Example:
@@ -54,22 +54,29 @@ model.train(epochs=1000)
 print(model.predict([[5]]))  # Output should be close to 10
 ```
 
-Running Tests
+## Running Tests
 python test/test.py
 
-Tech Stack
+## Tech Stack:
+
 Python 3.x
+
 NumPy (optional)
 
 No ML frameworks required
 
-Contributing
+## Contributing
+
 Feel free to fork the repo and submit pull requests.
+
 All improvements are welcome!
 
-License
+## License
+
 This project is licensed under the MIT License.
 
-Contact
-balajisaitheja@gmail.com
-https://github.com/MrMystrious
+## Contact
+<li>
+<ol>balajisaitheja@gmail.com</ol>
+<ol>https://github.com/MrMystrious</ol>
+</li>
