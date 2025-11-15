@@ -34,7 +34,7 @@ Unlike using pre-built libraries like `scikit-learn`, this implementation demons
 
 ```
 bash
-git clone https://github.com/your-username/ml-algo.git
+git clone https://github.com/MrMystrious/ml-algo.git
 cd ml-algo
 ```
 
@@ -71,7 +71,5 @@ License
     This project is licensed under the MIT License.
 
 Contact
-
-Your Name – balajisaitheja@gmail.com
-
-GitHub – https://github.com/MrMystrious
+    balajisaitheja@gmail.com
+    https://github.com/MrMystrious
