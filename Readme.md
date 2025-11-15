@@ -39,7 +39,7 @@ cd ml-algo
 ```
 
 Install dependencies:
-    pip install -r requirements.txt
+pip install -r requirements.txt
 
 Usage Example:
 ```
@@ -55,21 +55,21 @@ print(model.predict([[5]]))  # Output should be close to 10
 ```
 
 Running Tests
-    python test/test.py
+python test/test.py
 
 Tech Stack
-    Python 3.x
-    NumPy (optional)
+Python 3.x
+NumPy (optional)
 
 No ML frameworks required
 
 Contributing
-    Feel free to fork the repo and submit pull requests.
+Feel free to fork the repo and submit pull requests.
 All improvements are welcome!
 
 License
-    This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 Contact
-    balajisaitheja@gmail.com
-    https://github.com/MrMystrious
+balajisaitheja@gmail.com
+https://github.com/MrMystrious
